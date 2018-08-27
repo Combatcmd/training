@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "extends": "strongloop",
+  "plugins": ["jest"],
+  "env": {
+    "es6": true,
+    "jest/globals": true
+  }
+}
